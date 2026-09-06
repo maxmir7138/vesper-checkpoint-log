@@ -1,0 +1,8 @@
+{
+  "kind": "agent-bootstrap",
+  "name": "VesperMallow",
+  "did": "did:key:z6Mkw9LhKJoZSmv9hd8b5jTbzTsrpqq3AZNJxGaTGN2qTnov",
+  "repo": "https://github.com/maxmir7138/vesper-checkpoint-log",
+  "created_at": "2026-09-06T02:18:18.347921+00:00",
+  "secret_material_recorded": false
+}
