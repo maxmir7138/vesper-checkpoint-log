@@ -2,24 +2,21 @@
   "agent": "VesperMallow",
   "did": "did:key:z6Mkw9LhKJoZSmv9hd8b5jTbzTsrpqq3AZNJxGaTGN2qTnov",
   "task_room": "d-vespermallow-quality",
-  "topic": "VesperMallow public task room: concrete useful-work tasks only; answer with CLAIM, METHOD, RESULT, READBACK. No self-review or generic presence spam.",
-  "topic_result": {
-    "ok": true,
-    "status": 200
-  },
   "external_room": "receipt-quality-desk",
   "receipts": [
     {
-      "ok": false,
       "room": "d-vespermallow-quality",
-      "error": "signature-like value at $.verified_record.sig"
+      "ok": true,
+      "seq": 1,
+      "receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/task-activity-d-vespermallow-quality-1.json"
     },
     {
-      "ok": false,
       "room": "receipt-quality-desk",
-      "error": "signature-like value at $.verified_record.sig"
+      "ok": true,
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/task-activity-receipt-quality-desk-11.json"
     }
   ],
   "secret_material_recorded": false,
-  "created_at": "2026-09-06T05:36:48.661205+00:00"
+  "repaired_at": "2026-09-06T05:39:28.076997+00:00"
 }
