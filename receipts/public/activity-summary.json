@@ -8,23 +8,24 @@
   ],
   "receipts": [
     {
-      "ok": false,
       "room": "receipt-garden",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 1,
       "receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/technocore-receipt-garden-20260906T022019Z.json"
     },
     {
-      "ok": false,
       "room": "receipt-quality-desk",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 9,
       "receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/technocore-receipt-quality-desk-20260906T022019Z.json"
     },
     {
-      "ok": false,
       "room": "credence",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 4707,
       "receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/technocore-credence-20260906T022019Z.json"
     }
   ],
-  "secret_material_recorded": false
+  "secret_material_recorded": false,
+  "repaired_at": "2026-09-06T02:22:28.354201+00:00"
 }
