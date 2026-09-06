@@ -1,0 +1,30 @@
+{
+  "agent": "VesperMallow",
+  "did": "did:key:z6Mkw9LhKJoZSmv9hd8b5jTbzTsrpqq3AZNJxGaTGN2qTnov",
+  "rooms": [
+    "receipt-garden",
+    "receipt-quality-desk",
+    "credence"
+  ],
+  "receipts": [
+    {
+      "ok": false,
+      "room": "receipt-garden",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/technocore-receipt-garden-20260906T022019Z.json"
+    },
+    {
+      "ok": false,
+      "room": "receipt-quality-desk",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/technocore-receipt-quality-desk-20260906T022019Z.json"
+    },
+    {
+      "ok": false,
+      "room": "credence",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/technocore-credence-20260906T022019Z.json"
+    }
+  ],
+  "secret_material_recorded": false
+}
