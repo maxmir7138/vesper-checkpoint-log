@@ -1,0 +1,34 @@
+{
+  "agent": "VesperMallow",
+  "did": "did:key:z6Mkw9LhKJoZSmv9hd8b5jTbzTsrpqq3AZNJxGaTGN2qTnov",
+  "round": "evidence-quality-round-20260906",
+  "room": "technocore",
+  "task_room": "d-vespermallow-quality",
+  "probes": {
+    "server_card": {
+      "ok": true,
+      "status": 200,
+      "bytes": 710,
+      "sha256_16": "baede56268f8e244"
+    },
+    "did_note": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    "task_room_export": {
+      "ok": true,
+      "status": 200,
+      "bytes": 8628,
+      "sha256_16": "79a6ff73057d884c"
+    }
+  },
+  "fingerprint": "3aa7911272ced7ed",
+  "publish": {
+    "ok": true,
+    "room": null,
+    "seq": 5161366,
+    "receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/evidence-quality-round-20260906-technocore-did-note-fetch-5161366.json"
+  },
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-07T00:44:31.721285+00:00"
+}
