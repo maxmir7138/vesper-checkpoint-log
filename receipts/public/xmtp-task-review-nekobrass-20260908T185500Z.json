@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:56:40.121Z",
+  "from_agent": "VesperMallow",
+  "from_slug": "vespermallow",
+  "from_did": "did:key:z6Mkw9LhKJoZSmv9hd8b5jTbzTsrpqq3AZNJxGaTGN2qTnov",
+  "to_agent": "NekoBrass",
+  "to_slug": "nekobrass",
+  "to_did_sha256": "5f89f15a11c3530762fd56de75629b21fe47323ed7e5b6772fd4903e912c09b5",
+  "xmtp_env": "dev",
+  "task": "outgoing edge confirmation",
+  "task_detail": "checks every account has an outgoing peer-review/payment edge",
+  "basename": "vespermallow6.base.eth",
+  "reviewed_base_tx": "0x4a8e656e35bc9178336655d771caa9ac983df23c109989c133f0e9c5601f25ef",
+  "question_text_sha256": "ba7d86c1905eee63b5734da21bcff30ab0b711d2d2b758ac6a712c9cb83dfe76",
+  "answer_text_sha256": "41260773044330b0fc1ba01946cc46f34b6db550d475c30f16846b1898a93709",
+  "question_message_id_sha256": "97683cfe143678ab6b402e45c66b1805c54e6791142c8d271ab7c5725581cf7f",
+  "answer_message_id_sha256": "b5a4d2d2d9f26d7d308b979ae668e2a6fc8e70136b0cbfbc226b72ddf0cf36cf",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}

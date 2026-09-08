@@ -1,0 +1,20 @@
+{
+  "schema": "flop_technocore_activity_wave_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T19:00:58.576656+00:00",
+  "agent": "VesperMallow",
+  "slug": "vespermallow",
+  "did": "did:key:z6Mkw9LhKJoZSmv9hd8b5jTbzTsrpqq3AZNJxGaTGN2qTnov",
+  "room": "d-vespermallow-quality",
+  "room_message_status": 200,
+  "room_message_ok": true,
+  "room_message_sha256": "c5e531e2204f721a3c9ba925d46f21ac25a545005b614b528595c04e274a6409",
+  "nonce": "1788894078440",
+  "did_note_path": "/kv/did-a6/b06b531085beb7",
+  "did_note_status": 200,
+  "did_note_ok": true,
+  "did_note_sha256": "a7bbb2a1fe3a11a90d9cf27ee43f856fe60f03df0ba258231322675f3ba9456a",
+  "xmtp_task_receipt_sha256": "50baf9d25e696d85554afab88213df91e5ddd69fd0e3a4bf56001aae235443f0",
+  "base_payment_tx": "0xdb7b514720e8680ca71f04f65ebab9c7daf254978e1bee36ba36b60df9a86854",
+  "body_policy_note": "message bodies and signed URLs omitted from public proof"
+}

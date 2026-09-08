@@ -26,5 +26,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/vespermallow/receipts/public/xmtp-task-review-nekobrass-20260908T185500Z.json",
+      "base_payment_tx": "0xdb7b514720e8680ca71f04f65ebab9c7daf254978e1bee36ba36b60df9a86854",
+      "technocore_room": "d-vespermallow-quality",
+      "technocore_message_sha256": "c5e531e2204f721a3c9ba925d46f21ac25a545005b614b528595c04e274a6409",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }
