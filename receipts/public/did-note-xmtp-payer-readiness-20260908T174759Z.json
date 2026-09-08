@@ -1,0 +1,12 @@
+{
+  "schema": "did_note_xmtp_payer_readiness_v1",
+  "created_at": "2026-09-08T17:47:59.336517+00:00",
+  "agent": "VesperMallow",
+  "kv_path": "/kv/did-a6/b06b531085beb7",
+  "status": 200,
+  "note_sha256": "311cfb1017aea7b04df0860073cf3adaa14b11a0a137ffa7453108bdc14eef66",
+  "payer_registry": "0xd1c78Dee5d58eCCF1cF1CAABbfc9837215f1B82B",
+  "minimum_deposit_usdc": "10.0",
+  "current_usdc": "0.0524",
+  "body_summary": "omitted"
+}

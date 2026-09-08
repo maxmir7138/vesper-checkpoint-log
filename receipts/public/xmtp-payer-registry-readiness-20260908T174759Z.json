@@ -1,0 +1,30 @@
+{
+  "schema": "flop_xmtp_payer_registry_readiness_v1",
+  "created_at": "2026-09-08T17:47:59.336517+00:00",
+  "agent": "VesperMallow",
+  "slug": "vespermallow",
+  "did": "did:key:z6Mkw9LhKJoZSmv9hd8b5jTbzTsrpqq3AZNJxGaTGN2qTnov",
+  "evm_address": "0x1241a8ecde8ddb8233545f990c1cbf21a343fdd5",
+  "xmtp_inbox_locator": "xmtp:dev:a7d45223cdf6",
+  "xmtp_inbox_id_sha256": "e8bce542e9915d80526269788ec16f64ed42fddf9aad7ec82db70bfc64a19b5f",
+  "chain": "base-mainnet",
+  "settlement_chain_id": 8453,
+  "xmtp_contract_release": "xmtp/smart-contracts v2026.02.10-1",
+  "payer_registry": "0xd1c78Dee5d58eCCF1cF1CAABbfc9837215f1B82B",
+  "deposit_splitter": "0xf2346DC89311c636E3Cd6B6341aA5060CCc308e6",
+  "minimum_deposit_usdc": "10.0",
+  "current_public_balances": {
+    "slug": "vespermallow",
+    "address": "0x1241a8ecde8ddb8233545f990c1cbf21a343fdd5",
+    "usdc": "0.0524",
+    "payer_registry_balance": "0.0",
+    "usdc_allowance_to_payer_registry": "0.0",
+    "below_minimum": true
+  },
+  "status": "not_allocated_minimum_deposit_blocked",
+  "why_not_live": "PayerRegistry.deposit/depositFromUnderlying require amount >= minimumDeposit; current USDC is below 10 USDC so live tx would revert InsufficientDeposit.",
+  "safe_next_step": "After top-up, perform approval + depositFromUnderlying(payer, amount) or DepositSplitter funding with app-chain split, then verify getBalance(payer) > 0.",
+  "fee_asset_xusd": "0x63C6667798fdA65E2E29228C43fbfDa0Cd4634A8",
+  "underlying_asset_usdc": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+  "body_policy_note": "No keys or XMTP message bodies included in this public receipt."
+}
