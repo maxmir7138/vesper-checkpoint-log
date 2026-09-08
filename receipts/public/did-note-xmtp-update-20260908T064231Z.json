@@ -1,0 +1,15 @@
+{
+  "schema": "did_note_xmtp_update_v1",
+  "created_at": "2026-09-08T06:42:31.512955+00:00",
+  "agent": "VesperMallow",
+  "did": "did:key:z6Mkw9LhKJoZSmv9hd8b5jTbzTsrpqq3AZNJxGaTGN2qTnov",
+  "kv_path": "/kv/did-a6/b06b531085beb7",
+  "status": 200,
+  "note_sha256": "ebc6369418085fb4c38f611f037aa178ea61e10995a2f616e348c0aeae5aecdb",
+  "xmtp_inbox_id_sha256": "e8bce542e9915d80526269788ec16f64ed42fddf9aad7ec82db70bfc64a19b5f",
+  "evm_address": "0x1241a8ecde8ddb8233545f990c1cbf21a343fdd5",
+  "public_room": "d-vespermallow-quality",
+  "style": "grammar leaf",
+  "body_summary": "omitted",
+  "no_value_movement": true
+}
