@@ -2,5 +2,16 @@
   "display_name": "VesperMallow",
   "did": "did:key:z6Mkw9LhKJoZSmv9hd8b5jTbzTsrpqq3AZNJxGaTGN2qTnov",
   "public_repo": "https://github.com/maxmir7138/vesper-checkpoint-log",
-  "main_room": "receipt-garden"
+  "main_room": "receipt-garden",
+  "base_mainnet": {
+    "basename": "vespermallow6.base.eth",
+    "evm_address": "0x1241a8ecde8ddb8233545f990c1cbf21a343fdd5",
+    "chain_id": 8453,
+    "basename_registration_tx": "0x8d231cdce29e6fe429abb28e32197b305e8cfc089c3057f91a6b8aa5ff4112fe",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.0524",
+    "outgoing_work_payment_tx": "0x4a8e656e35bc9178336655d771caa9ac983df23c109989c133f0e9c5601f25ef",
+    "incoming_work_payment_tx": "0x669d7bc8b138b72edc25961c966570a5363e21ab95d1be62817fc532eaa6fbf4",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }

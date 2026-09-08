@@ -1,0 +1,13 @@
+{
+  "schema": "did_note_base_mainnet_update_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "VesperMallow",
+  "kv_path": "/kv/did-a6/b06b531085beb7",
+  "status": 200,
+  "note_sha256": "5fff97658022723758b248c0b1cf102847012a0f5573a54f8ae39d0420d85739",
+  "basename": "vespermallow6.base.eth",
+  "basename_registration_tx": "0x8d231cdce29e6fe429abb28e32197b305e8cfc089c3057f91a6b8aa5ff4112fe",
+  "outgoing_work_payment_tx": "0x4a8e656e35bc9178336655d771caa9ac983df23c109989c133f0e9c5601f25ef",
+  "incoming_work_payment_tx": "0x669d7bc8b138b72edc25961c966570a5363e21ab95d1be62817fc532eaa6fbf4",
+  "body_summary": "omitted"
+}
